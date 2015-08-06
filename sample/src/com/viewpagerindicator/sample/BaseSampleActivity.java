@@ -9,7 +9,9 @@ import android.support.v4.view.ViewPager;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.Toast;
-
+/**
+¸ÃÌí¼ÓÐ©×¢ÊÍ
+*/
 public abstract class BaseSampleActivity extends FragmentActivity {
     private static final Random RANDOM = new Random();
 
