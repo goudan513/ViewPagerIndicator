@@ -11,6 +11,7 @@ import android.view.MenuItem;
 import android.widget.Toast;
 /**
 ¸ÃÌí¼ÓĞ©×¢ÊÍ
+//////////////////////////
 */
 public abstract class BaseSampleActivity extends FragmentActivity {
     private static final Random RANDOM = new Random();
