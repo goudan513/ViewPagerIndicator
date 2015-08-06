@@ -12,6 +12,7 @@ import android.widget.Toast;
 /**
 该添加些注释
 //////////////////////////
+范德萨范德萨范德萨发 
 */
 public abstract class BaseSampleActivity extends FragmentActivity {
     private static final Random RANDOM = new Random();
